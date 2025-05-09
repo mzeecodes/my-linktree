@@ -6,7 +6,7 @@
 }
 
 body, html {
-  font-family: 'Poppins'; /* Easily swappable */
+  font-family: 'Poppins';
   color: rgb(0, 0, 0);
   height: 100%;
   width: 100%;
@@ -93,7 +93,15 @@ body, html {
     padding: 0.9rem;
   }
 }
-
+.button:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
+}
+@media (min-width: 768px) {
+  .button:hover {
+    transform: scale(1.05);
+  }
+}
 .background-video {
   position: fixed;
   top: 0;
