@@ -1,5 +1,5 @@
 import './App.css';
-import meImage from './assets/mepng.png';
+import meImage from './assets/mzeelogo.png';
 import bgVideo from "./assets/bgvid.mp4";
 import "./App.css";
 
