@@ -1,4 +1,4 @@
-/* Reset and base setup */
+/* Reset default browser spacing */
 * {
   margin: 0;
   padding: 0;
@@ -122,6 +122,8 @@ body, html, .App {
   text-align: center;
   height: 100vh;
   padding: 20px;
+  padding-top: 10px;
+  margin-top: 0;
   z-index: 1;
   position: relative;
 }
