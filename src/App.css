@@ -121,7 +121,7 @@ body, html, .App {
   align-items: center;
   text-align: center;
   height: auto;
-  padding: 3px 20px 20px 20px; /* Reduce top padding here */
+  padding: 1px 20px 20px 20px; /* Reduce top padding here */
   margin-top: 0;
   z-index: 1;
   position: relative;
