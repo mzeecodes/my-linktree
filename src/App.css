@@ -117,12 +117,11 @@ body, html, .App {
 .content-wrapper {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start; /* Changed from center to flex-start */
   align-items: center;
   text-align: center;
   height: 100vh;
-  padding: 20px;
-  padding-top: 10px;
+  padding: 10px 20px 20px 20px; /* Reduce top padding here */
   margin-top: 0;
   z-index: 1;
   position: relative;
