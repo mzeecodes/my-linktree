@@ -61,7 +61,7 @@ body, html {
 .button {
   background-color: black;
   color: white;
-  padding: 15px 25px;
+  padding: 20px 30px;
   border-radius: 30px;
   text-align: center;
   display: block;
@@ -134,7 +134,7 @@ body, html, .App {
 }
 
 .logo {
-  width: 150px;  /* adjust as needed */
+  width: 200px;  /* adjust as needed */
   height: 120px;
   border-radius: 50%;
   display: block;
