@@ -120,8 +120,8 @@ body, html, .App {
   justify-content: flex-start; /* Changed from center to flex-start */
   align-items: center;
   text-align: center;
-  height: 100vh;
-  padding: 10px 20px 20px 20px; /* Reduce top padding here */
+  height: auto;
+  padding: 3px 20px 20px 20px; /* Reduce top padding here */
   margin-top: 0;
   z-index: 1;
   position: relative;
