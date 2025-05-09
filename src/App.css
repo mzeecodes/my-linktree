@@ -66,8 +66,8 @@ body, html {
   text-align: center;
   display: block;
   margin: 15px auto;
-  width: 80%;
-  font-size: 18px;
+  width: 100%;
+  font-size: 20px;
   transition: transform 0.2s ease;
   text-decoration: none;
 }
@@ -134,8 +134,8 @@ body, html, .App {
 }
 
 .logo {
-  width: 200px;  /* adjust as needed */
-  height: 120px;
+  width: 250px;  /* adjust as needed */
+  height: 140px;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
