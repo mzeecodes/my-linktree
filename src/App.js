@@ -25,11 +25,11 @@ function App() {
       </div>
   
       <div className="buttons">
-        <a href="https://spotify.openinapp.co/thq7t " class="button">🎧 Stream on Spotify</a>
-        <a href="https://www.youtube.com/@mzeeperfect" class="button">▶️ Watch on YouTube</a>
-        <a href="https://insta.openinapp.co/20oyd" class="button">📬 Follow on Instagram</a>
-        <a href="https://applemusic.openinapp.co/xg2rv" class="button">🍑 Listen on Apple Music</a>
-        <a href="https://discord.gg/xJVWSFmjXy" class="button">💬 Join My Discord Server</a>
+        <a href="https://spotify.openinapp.co/thq7t " class="button"> 🟢 Stream on Spotify</a>
+        <a href="https://www.youtube.com/@mzeeperfect" class="button"> 🔴 Watch on YouTube</a>
+        <a href="https://insta.openinapp.co/20oyd" class="button"> 📸 Follow on Instagram</a>
+        <a href="https://applemusic.openinapp.co/xg2rv" class="button"> 🍎 Listen on Apple Music</a>
+        <a href="https://discord.gg/xJVWSFmjXy" class="button"> 💬 Join My Discord Server</a>
       </div>
     </div>
   </div>

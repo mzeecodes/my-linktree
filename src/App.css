@@ -6,6 +6,8 @@
 }
 
 body, html {
+  margin: 5%;
+  padding: 5%;
   font-family: 'Poppins', sans-serif;
   color: rgb(0, 0, 0);
   height: 100%;
