@@ -58,18 +58,18 @@ body, html {
   max-width: 400px;
 }
 
-.link-btn {
-  display: block;
-  text-align: center;
-  padding: 1rem;
-  background-color: #000; /* Black button */
-  color: #fff;
-  font-weight: 600;
+.button {
+  background-color: black;
+  color: white;
+  padding: 15px 25px;
   border-radius: 30px;
+  text-align: center;
+  display: block;
+  margin: 15px auto;
+  width: 80%;
+  font-size: 18px;
+  transition: transform 0.2s ease;
   text-decoration: none;
-  font-size: 1.1rem;
-  transition: all 0.2s ease-in-out;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
 .button:hover {
@@ -79,6 +79,7 @@ body, html {
 .button:active {
   transform: scale(0.95);
 }
+
 
 /* Responsive */
 @media (max-width: 600px) {
@@ -134,7 +135,7 @@ body, html, .App {
 
 .logo {
   width: 150px;  /* adjust as needed */
-  height: 150px;
+  height: 120px;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
